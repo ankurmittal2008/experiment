@@ -1,1 +1,2 @@
 g.js
+conflict.js
